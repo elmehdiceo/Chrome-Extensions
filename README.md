@@ -35,7 +35,7 @@
 - Search Stackoverflow: https://chrome.google.com/webstore/detail/search-stackoverflow/gmdolelhfhbldobljhbhdgljbajhfilj?hl=en
 
 
-##  Extensions for Chrome:
+##  Themes for Chrome:
 ==========================
 
 - Star Se7en: https://chrome.google.com/webstore/detail/star-se7en/kembffdaaophkgdjpheebhhlaihpagjp
